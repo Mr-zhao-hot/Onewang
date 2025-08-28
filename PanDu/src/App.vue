@@ -1,4 +1,3 @@
-<!-- src/App.vue -->
 <template>
   <div>
     <Button variant="destructive" @click="chose">Click me</Button>
